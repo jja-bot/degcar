@@ -83,7 +83,7 @@ p { line-height: 1.9; }
 .tm-bg-right { background-color: rgba(0,0,0,0.8); }
 
 .tm-bg-left {
-    border-right: 230px solid rgba(0,0,0,0.8);
+    border-right: 230px solid rgba(0,0,0,0.7);
     border-top: 100vh solid transparent;
 }
 
